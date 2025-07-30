@@ -45,7 +45,7 @@ Directory structure:
 ### ▶️ Running the Application
 1. Clone the repository
    ```bash
-   git clone <repository-url>
-   cd adrin-bershik-c-j-day7proj1phase2
+   git clone https://github.com/Adrin-Bershik-C-J/day7proj1phase2
+   cd day7proj1phase2
    
 
