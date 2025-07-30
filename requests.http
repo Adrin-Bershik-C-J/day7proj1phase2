@@ -1,0 +1,7 @@
+GET http://localhost:9090/info
+
+###
+GET http://localhost:9090/hello
+
+###
+GET http://localhost:9090/greet/Adrin
